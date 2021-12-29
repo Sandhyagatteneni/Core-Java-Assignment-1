@@ -1,3 +1,17 @@
-Consider user has N eggs. Then display the no of eggs in gross (144 eggs make one gross) and no of eggs in dozen (12 eggs make one dozen) and the no of eggs that is left out remaining.
+Create a class called Calculator which has 4 different methods add, diff, mul and div which
 
-The total no of eggs is input.The program should display how many gross, how many dozen, and how many left over eggs the user has.
+accepts two numbers as parameters. Overload the methods such that the parameters can be
+
+of the following pattern.
+
+1. Both are of int data type.
+
+2. Both are of double data type.
+
+3. First parameter is of int data type and second parameter is of double data type.
+
+4. First parameter is of double data type and second parameter is of int data type.
+
+Create anobject to access these methods and invoke these methods with different type of
+
+numbers and display the result in the corresponding methods.
